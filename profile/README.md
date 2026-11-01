@@ -6,7 +6,8 @@ Turning Ideas Into Technology.
 
 Software Development • Artificial Intelligence • Innovation
 
-</div>---
+</div>
+---
 
 👋 About Us
 
